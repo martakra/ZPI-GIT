@@ -7,5 +7,6 @@ int main() {
     cout << "GIT!" << endl;
     cout << "Podaj nazwę przedmiotu" << endl;
     cin >> nazwa;
+    cout << "Branch NEW" << endl;
     return 0;
 }
