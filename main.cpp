@@ -8,5 +8,6 @@ int main() {
     cout << "Podaj nazwę przedmiotu" << endl;
     cin >> nazwa;
     cout << "Branch NEW" << endl;
+    cout << "Slack test" << endl;
     return 0;
 }
